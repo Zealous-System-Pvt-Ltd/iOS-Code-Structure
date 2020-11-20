@@ -1,0 +1,6 @@
+framework module Pods_CodeStructure {
+  umbrella header "Pods-CodeStructure-umbrella.h"
+
+  export *
+  module * { export * }
+}

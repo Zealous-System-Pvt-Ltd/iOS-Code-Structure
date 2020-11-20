@@ -1,0 +1,13 @@
+/*
+  Localizable.strings
+  CodeStructure
+
+  Created by Admin on 08/09/20.
+  Copyright © 2020 Admin. All rights reserved.
+*/
+
+// SelectLangVC
+"APP LANGUAGE" = "APP LANGUAGE";
+"Language" = "Language";
+"Next" = "Next";
+"Please select your Language." = "Please select your Language.";

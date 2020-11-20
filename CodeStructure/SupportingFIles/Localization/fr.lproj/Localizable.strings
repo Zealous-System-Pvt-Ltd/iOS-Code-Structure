@@ -1,0 +1,494 @@
+/*
+  Localizable.strings
+  CodeStructure
+
+  Created by Admin on 08/09/20.
+  Copyright © 2020 Admin. All rights reserved.
+*/
+
+// SelectLangVC
+"APP LANGUAGE" = "LANGUE DE L'APPLICATION";
+"Language" = "Langue";
+"Next" = "Prochain";
+"Please select your Language." = "Veuillez sélectionner votre langue.";
+
+// UserRoleVC
+"SELECT YOUR ROLE" = "CHOISISSEZ VOTRE RÔLE";
+"I am a Teacher" = "Je suis enseignant(e)";
+"I am a Student" = "Je suis étudiant(e)";
+"Get Started" = "Commencer";
+
+// SigninVC
+"SIGN IN" = "SE CONNECTER";
+"Email address" = "Adresse e-mail";
+"Password" = "Mot de passe";
+"RESET" = "RÉINITIALISER";
+"Sign in" = "se connecter";
+"DON'T HAVE AN ACCOUNT ?" = "VOUS N'AVEZ PAS DE COMPTE?";
+"Sign up" = "S'inscrire";
+"Please enter Email Address." = "Veuillez saisir votre adresse e-mail.";
+"Please enter a valid Email Address." = "S'il vous plaît, mettez une adresse email valide.";
+"Please enter password." = "Veuillez entrer le mot de passe.";
+"Please enter atleast 6 characters password." = "Veuillez saisir un mot de passe d'au moins 6 caractères.";
+"Both password does not match." = "Les deux mots de passe ne correspondent pas.";
+
+// SignupStudentVC
+"SKIP" = "SAUTER";
+"You are not a logged in user. Please Sign in or Sign up for access." = "Vous n'êtes pas un utilisateur connecté. Veuillez vous connecter ou vous inscrire pour y accéder.";
+"Please select Profile picture." = "Veuillez sélectionner une photo de profil.";
+"Please enter First name." = "Veuillez saisir le prénom.";
+"Please enter Last name." = "Veuillez entrer le nom.";
+"Please enter Address." = "Veuillez entrer l'adresse.";
+"Please enter Phone number." = "PVeuillez saisir le numéro de téléphone.";
+"Please enter Postal code." = "Veuillez saisir le code postal.";
+"Please enter valid Postal code." = "Veuillez saisir un code postal valide.";
+"Please enter valid Phone number." = "S'il vous plait entrez un numéro de téléphone valide.";
+"Please select Date of birth." = "Veuillez sélectionner la date de naissance.";
+"Please select Instrument." = "Veuillez sélectionner Instrument.";
+"Please enter Coupon code." = "Veuillez saisir le code du coupon.";
+"Camera is not available." = "L'appareil photo n'est pas disponible.";
+"Address" = "Adresse";
+"Coupon code" = "Code de coupon";
+"APPLY" = "APPLIQUER";
+"Child name" = "Nom de l'enfant";
+"Age of child" = "Âge de l'enfant";
+"I accept the" = "J'accepte le";
+"Terms & Conditions" = "termes et conditions";
+
+// SignupTeacherVC
+"Select Profile from" = "Sélectionnez un profil dans";
+"Cancel" = "Annuler";
+"Library" = "Bibliothèque";
+"Camera" = "Caméra";
+"First name" = "Prénom";
+"Last name" = "Nom de famille";
+"Email address" = "Adresse e-mail";
+"Password" = "Mot de passe";
+"Legal address" = "Adresse légale";
+"Teaching address" = "Adresse d'enseignement";
+"Phone number" = "Numéro de téléphone";
+"Postal code" = "Postal code";
+"Date of birth" = "Date de naissance";
+"Sin" = "Péché";
+"Instrument" = "Instrument";
+"Language" = "Langue";
+"UPLOAD CV" = "TÉLÉCHARGER CV";
+"Choose file" = "Choisir le fichier";
+"NO FILE CHOSEN" = "AUCUN FICHIER CHOISI";
+"Bio" = "Bio";
+"SIGN UP" = "S'INSCRIRE";
+"Legal address same as Teaching Address" = "Adresse légale identique à l'adresse d'enseignement";
+"Please enter Legal address." = "Veuillez saisir l'adresse légale.";
+"Please enter Teaching address." = "Veuillez saisir l'adresse de l'enseignement.";
+"Please enter Sin." = "Veuillez entrer Sin.";
+"Please enter Bio." = "Veuillez entrer Bio.";
+"Please enter Reason." = "Veuillez entrer la raison.";
+"Please select Reason." = "Veuillez sélectionner la raison.";
+"Please enter Review." = "Veuillez saisir un avis.";
+
+// Popup
+"NOTE" = "REMARQUE";
+"YOUR ACCOUNT WILL BE VERIFIED SOON." = "VOTRE COMPTE SERA VÉRIFIÉ BIENTÔT.";
+"Got it" = "Je l'ai";
+"Done" = "Terminé";
+"NEW TIME SLOT" = "NOUVEAU TEMPS";
+"Once" = "Une fois que";
+"ONCE" = "UNE FOIS QUE";
+"Recurring" = "Récurrente";
+"RECURRING" = "RÉCURRENTE";
+"Select" = "Sélectionner";
+"Add new time slot" = "Ajouter un nouveau créneau horaire";
+"CHANGE LOCATION" = "CHANGER DE LIEU";
+"Search location" = "Rechercher un emplacement";
+"Current location" = "Localisation actuelle";
+"RECENT SEARCH RESULTS" = "RÉSULTATS DE RECHERCHE RÉCENTS";
+"Set location" = "Définir l'emplacement";
+"INSTRUMENTS" = "INSTRUMENTS";
+"CONFIRMATION" = "CONFIRMATION";
+"Are you sure you want to cancel order ?" = "Êtes-vous sûr de vouloir annuler la commande?";
+"Are you sure you want to Sign Out from application ?" = "Voulez-vous vraiment vous déconnecter de l'application ?";
+"No" = "Non";
+"Yes" = "Oui";
+"CANCELLATION REASON" = "RAISON D'ANNULATION";
+"Write a Reason" = "Ecrire une raison";
+
+// ResetEmailVC
+"FORGOT PASSWORD" = "MOT DE PASSE OUBLIÉ";
+"RESET PASSWORD" = "RÉINITIALISER LE MOT DE PASSE";
+"Enter your Registered Mobile Number to Reset your Password" = "Entrez votre numéro de mobile enregistré pour réinitialiser votre mot de passe";
+"Submit" = "Soumettre";
+"ALREADY HAVE AN ACCOUNT ?" = "VOUS AVEZ DÉJÀ UN COMPTE ?";
+"OTP VERIFICATION" = "VERIFICATION OTP";
+"We sent a 4-Digit code to" = "Nous avons envoyé un code à 4 chiffres à";
+"Please enter OTP." = "Veuillez saisir OTP.";
+"Verify" = "Vérifier";
+"Resend OTP" = "Renvoyer OTP";
+"in" = "dans";
+
+// TermsVC
+"TERMS & CONDITIONS" = "TERMES ET CONDITIONS";
+"Back" = "Retour";
+"I agree above terms and conditions" = "J'accepte les termes et conditions ci-dessus";
+"Please accept Terms & Conditions." = "Veuillez accepter les conditions générales.
+";
+"Continue" = "Continuer";
+
+// AddBankInfoVC
+"ADD BANK INFORMATION" = "AJOUTER DES INFORMATIONS BANCAIRES";
+"Branch first five digits" = "Branche les cinq premiers chiffres";
+"Save and Next" = "Enregistrer et suivant";
+"Please enter Bank Name." = "Veuillez saisir le nom de la banque.";
+"Please enter Financial institution number." = "Veuillez saisir le numéro de l'institution financière.";
+"Please enter Account Number." = "Veuillez saisir le numéro de compte.
+";
+"Please enter Branch first five digits." = "Veuillez entrer les cinq premiers chiffres de la succursale.";
+"Bank Name" = "Nom de banque";
+"Financial institution number" = "Numéro de l'institution financière";
+"Account Number" = "Numéro de compte";
+
+// YourAccVC
+"YOUR ACCOUNT" = "VOTRE COMPTE";
+"CHOOSE LOCATION" = "CHOISISSEZ L'EMPLACEMENT";
+"SELECT ALL" = "TOUT SÉLECTIONNER";
+"DESELECT ALL" = "TOUT DÉSELECTIONNER";
+"ONLINE PLATFORMS" = "PLATEFORMES EN LIGNE";
+"Zoom" = "Zoom";
+"Skype" = "Skype";
+"Google Meet" = "Google Meet";
+"Enter FaceTime ID" = "Entrez l'identifiant FaceTime";
+"Enter Zoom ID" = "Entrez l'ID de zoom";
+"Enter Skype ID" = "Entrez l'identifiant Skype";
+"Enter Google Meet ID" = "Saisissez l'identifiant Google Meet";
+"LESSON DETAILS" = "DÉTAILS DE LA LEÇON";
+"PRICE DETAILS" = "DÉTAILS DES PRIX";
+"BACKGROUND CHECK" = "VÉRIFICATION DU CONTEXTE";
+"SKILL LEVEL" = "NIVEAU DE COMPÉTENCE";
+"LISTED PRICE (CAD)" = "PRIX INDIQUÉ (CAD)";
+"PER HOUR" = "PAR HEURE";
+"HOUR" = "HEURE";
+"YOUR SALARY" = "VOTRE SALAIRE";
+"VERIFIED" = "VÉRIFIÉ";
+"You are now certified to have passed a police background check for student's safety and peace of mind." = "Vous êtes maintenant certifié pour avoir réussi une vérification des antécédents de la police pour la sécurité et la tranquillité d'esprit des étudiants.";
+"Please enter at least single Online option ID." = "Veuillez saisir au moins un identifiant d'option en ligne.";
+"ADD NEW" = "AJOUTER NOUVEAU";
+"SKILL VIDEO" = "VIDÉO DE COMPÉTENCE";
+"MAX" = "MAX";
+"Max video link added." = "Lien vidéo max ajouté.";
+"Please enter Video link and title." = "Veuillez saisir le lien et le titre de la vidéo.";
+
+// ScheduleVC
+"SCHEDULE" = "PROGRAMME";
+"Schedule Now" = "Planifiez maintenant";
+"Save" = "sauvegarder";
+"Week" = "La semaine";
+"Month" = "Mois";
+"WEEK" = "LA SEMAINE";
+"WEEKS" = "SEMAINES";
+"MONTH" = "MOIS";
+"MONTHS" = "MOIS";
+"Year" = "An";
+"You can't add past date schedule." = "Vous ne pouvez pas ajouter de planification de dates antérieures.";
+
+// HomeVC
+"CodeStructure MUSIC LESSONS" = "COURS DE MUSIQUE CodeStructure";
+"Mail" = "Courrier";
+"NEWS" = "NOUVELLES";
+"News" = "Nouvelles";
+"SPECIAL OFFERS" = "OFFRES SPÉCIALES";
+"TEACHING RESOURCES" = "RESSOURCES PÉDAGOGIQUES";
+"MUSIC SUPPLIES" = "FOURNITURES DE MUSIQUE";
+"Comments" = "commentaires";
+"Buy Now" = "Acheter maintenant";
+
+// TabbarVC
+"HOME" = "DOMICILE";
+"AVAILABILITY" = "DISPONIBILITÉ";
+"LESSONS" = "LESSONS";
+"REWARDS" = "RÉCOMPENSES";
+"PROFILE" = "PROFIL";
+"SEARCH" = "CHERCHER";
+
+// NewsDetailVC
+"Comment" = "Commentaire";
+"COMMENT" = "COMMENTAIRE";
+"Write a comment" = "Écrire un commentaire";
+"Posted by Admin" = "Publié par l'administrateur";
+"NEWS DETAILS" = "DÉTAILS DES NOUVELLES";
+"Please enter your comment." = "Veuillez saisir votre commentaire.";
+"EDIT" = "ÉDITER";
+
+// LESSONVC
+"OPPS!" = "OPPS!";
+"No Booking Found" = "Aucune réservation trouvée";
+"Book a lesson now" = "Réservez une leçon maintenant";
+"Hour" = "Heure";
+"Upcoming" = "A venir";
+"Past" = "Passée";
+"Calendar View" = "Vue du calendrier";
+"List View" = "Vue en liste";
+"Location" = "Emplacement";
+"When" = "Quand";
+"YEARS" = "ANNÉES";
+"Please enter Description." = "Veuillez saisir une description.";
+"Book Next Lesson" = "Réserver la prochaine leçon";
+"OR" = "OU";
+"Submit and Book Next Lesson" = "Soumettre et réserver la prochaine leçon";
+
+"INSTRUMENT" = "INSTRUMENT";
+"DURATION" = "DURÉE";
+"LOCATION" = "EMPLACEMENT";
+"PRICE" = "PRIX";
+"WHEN" = "QUAND";
+
+"Teacher’s Home" = "Maison du professeur";
+"Student Home" = "Résidence étudiante";
+"Online" = "En ligne";
+"ONE TIME" = "UNE FOIS";
+"TEACHER'S COMMENT" = "COMMENTAIRE DE L'ENSEIGNANT";
+"STUDENT'S REASON" = "RAISON DE L'ÉLÈVE";
+"Give Ratings" = "Donnez des notes";
+"Report a Problem" = "Signaler un problème";
+"REPORT A PROBLEM" = "SIGNALER UN PROBLÈME";
+"RECURRING FOR" = "RÉCURRENT POUR";
+"WEEK" = "LA SEMAINE";
+"Cancel Order" = "annuler la commande";
+
+"ORDER CANCELLED" = "COMMANDE ANNULÉE";
+"STUDENT" = "ÉTUDIANTE";
+"MY REASON" = "MA RAISON";
+"Age" = "Âge";
+
+// RatingVC
+"RATE YOUR LESSONS" = "ÉVALUEZ VOS LEÇONS";
+"HELPFULNESS" = "OBLIGEANCE";
+"ENCOURAGEMENT" = "ENCOURAGEMENT";
+"PATIENCE" = "LA PATIENCE";
+"ORGANIZATION" = "ORGANISATION";
+"WEAK" = "FAIBLE";
+"FAIR" = "JUSTE";
+"SATISFACTORY" = "SATISFAISANTE";
+"GOOD" = "BIEN";
+"EXCELLENT" = "EXCELLENTE";
+"Write a reviews" = "Rédiger un avis";
+"Report Now" = "Signaler maintenant";
+
+// RewardsVC
+"All Rewards" = "Toutes les récompenses";
+"My Rewards" = "Mes récompenses";
+"REWARDS" = "RÉCOMPENSES";
+"Cart" = "Chariot";
+"REWARDS TRACKER" = "TRACKER DE RÉCOMPENSES";
+"Point" = "Point";
+"Points" = "Points";
+"SUGGESTIONS" = "SUGGESTIONS";
+"CONCERT TICKETS" = "PLACES DE CONCERT";
+"OTHER OFFERS" = "AUTRES OFFRES";
+"CONCERT DETAILS" = "DÉTAILS CONCERT";
+"MORE INFO" = "PLUS D'INFORMATIONS";
+"Quantity" = "Quantité";
+"Redeem" = "Racheter";
+"ORDER INFORMATION" = "INFORMATIONS SUR LA COMMANDE";
+"TEACHER" = "PROFESSEURE";
+"Teacher" = "Professeure";
+"FEATURED TEACHERS" = "ENSEIGNANTS EN VEDETTE";
+"SUGGESTED TEACHERS" = "ENSEIGNANTS SUGGÉRÉS";
+"RENT AN INSTRUMENT" = "LOUER UN INSTRUMENT";
+"STUDENT" = "ÉTUDIANTE";
+"UPCOMING SESSIONS" = "SESSIONS À VENIR";
+"Travel fee" = "Frais de voyage";
+"Transaction fees" = "Les frais de transaction";
+"Lesson fees" = "Frais de cours";
+"TOTAL" = "TOTALE";
+"Reserve and Pay Now" = "Réservez et payez maintenant";
+"Reserve" = "réserve";
+
+// ProfileVC
+"PAYMENT" = "PAIEMENT";
+"TEACHING RESOURCES" = "RESSOURCES PÉDAGOGIQUES";
+"STUDENT RESOURCES" = "RESSOURCES ÉTUDIANTES";
+"SETTINGS" = "RÉGLAGES";
+"PROMOTIONS" = "PROMOTIONS";
+"PROMOTION DETAILS" = "DÉTAILS DE LA PROMOTION";
+"Code Copied" = "Code copié";
+"CHANGE PASSWORD" = "CHANGER LE MOT DE PASSE";
+"HELP" = "AIDEZ-MOI";
+"FAQ" = "FAQ";
+"LEGAL" = "LÉGALE";
+"ABOUT" = "SUR";
+"SIGN OUT" = "DÉCONNEXION";
+"DATE OF BIRTH" = "DATE DE NAISSANCE";
+"LANGUAGE" = "LANGUE";
+"BIO" = "BIO";
+"EMAIL" = "EMAIL";
+"TELEPHONE" = "TÉLÉPHONE";
+"LEGAL ADDRESS" = "ADRESSE LÉGALE";
+"TEACHING ADDRESS" = "ADRESSE PÉDAGOGIQUE";
+"UPLOADED CV" = "CV TÉLÉCHARGÉ";
+"Skill Level" = "Niveau de compétence";
+"Listed Price Per Hour (CAD)" = "Prix ​​affiché par heure (CAD)";
+"Your Salary" = "Votre salaire";
+"Per Hour" = "Par heure";
+"My Child" = "Mon enfant";
+"Me" = "Moi";
+
+// Search
+"TEACHERS" = "ENSEIGNANTES";
+"Filter" = "Filtre";
+"FILTER" = "FILTRE";
+"FILTERS" = "FILTRES";
+"CHOOSE AN INSTRUMENT" = "CHOISISSEZ UN INSTRUMENT";
+"LEVEL" = "NIVEAU";
+"DATE AND TIME" = "DATE ET L'HEURE";
+"Choose Date" = "Choisissez la date";
+"Choose Time" = "Choisissez l'heure";
+"Apply" = "Appliquer";
+"FIND A TEACHER" = "TROUVEZ UN PROFESSEUR";
+"Find a Teacher" = "Trouver un enseignant";
+"View all" = "Voir tout";
+"BOOK YOUR LESSONS" = "RÉSERVEZ VOS COURS";
+"Get Discounts and Rewards" = "Obtenez des rabais et des récompenses";
+"View more" = "Voir plus";
+"View less" = "Voir moins";
+"VIDEOS" = "VIDÉOS";
+"Video" = "Vidéo";
+"Title" = "Titre";
+"Enter title" = "Entrez le titre";
+"Price" = "Prix";
+"REVIEWS" = "COMMENTAIRES";
+"CHOOSE LESSON LENGTH" = "CHOISISSEZ LA DURÉE DE LA LEÇON";
+"Checkout" = "Check-out";
+
+// Payment
+"Weekly Payment Receipts" = "Reçus de paiement hebdomadaires";
+"Yearly Summary" = "Résumé annuel";
+"Direct Deposit Info" = "Informations sur le dépôt direct";
+"Add or Modify Tax Number" = "Ajouter ou modifier le numéro de taxe";
+"View Statistics" = "Voir les statistiques";
+"WEEKLY PAYMENT RECEIPTS" = "REÇUS DE PAIEMENT HEBDOMADAIRES";
+"YEARLY SUMMARY" = "RÉSUMÉ ANNUEL";
+"DIRECT DEPOSIT INFORMATION" = "INFORMATIONS DE DÉPÔT DIRECT";
+"BANK NAME" = "NOM DE BANQUE";
+"FIRST NAME" = "PRÉNOM";
+"LAST NAME" = "NOM DE FAMILLE";
+"FINANCIAL INSTITUTION NUMBER" = "NUMÉRO DE L'INSTITUTION FINANCIÈRE";
+"ACCOUNT NUMBER" = "NUMÉRO DE COMPTE";
+"BRANCH FIRST FIVE DIGITS" = "BRANCH FIRST CINQ CHIFFRES";
+"EDIT DIRECT DEPOSIT INFORMATION" = "MODIFIER LES INFORMATIONS DE DÉPÔT DIRECT";
+"Save Changes" = "Sauvegarder les modifications";
+"TAX NUMBERS" = "NUMÉROS FISCAUX";
+"SIN number" = "Numéro de NAS";
+"It is needed to complete a police background check and for tax purposes in accordance with our safety policy and terms of use." = "Il est nécessaire pour effectuer une vérification des antécédents de la police et à des fins fiscales conformément à notre politique de sécurité et à nos conditions d'utilisation.";
+"From date can't be greater from To date." = "La date de début ne peut pas être supérieure à la date.";
+"Please enter your Problem." = "Veuillez saisir votre problème.";
+"VIEW STATISTICS" = "VOIR LES STATISTIQUES";
+"RESET FILTER" = "RÉINITIALISER LE FILTRE";
+"From date" = "Partir de la date";
+"To date" = "À ce jour";
+"To" = "À";
+"TOTAL STUDENTS TOUGHT" = "TOTAL ÉTUDIANTS SOLIDES";
+"TOTAL LESSONS" = "TOTAL LEÇONS";
+"TOTAL HOURS TOUGHT" = "TOTAL DES HEURES DE DURÉE";
+"TOTAL POINTS" = "POINTS TOTAUX";
+"TOTAL EARNING" = "GAIN TOTAL";
+"Lessons" = "Cours";
+"NOTIFICATIONS" = "NOTIFICATIONS";
+"Beginner" = "Débutante";
+"Intermediate" = "Intermédiaire";
+"Advanced" = "Avancée";
+"Card Holder" = "Titulaire de la carte";
+"Expiry" = "Expiration";
+"Are you sure you want to delete this card" = "Êtes-vous sûr de vouloir supprimer cette carte";
+"Please enter name." = "Veuillez entrer le nom.";
+"Please enter card number." = "Veuillez saisir le numéro de carte.";
+"Please enter expire date." = "Veuillez saisir la date d'expiration.";
+"Please enter expire year." = "Veuillez saisir l'année d'expiration.";
+"Please enter cvv." = "Veuillez saisir cvv.";
+"Please enter valid card number." = "Veuillez saisir un numéro de carte valide.";
+"ADD YOUR CARD DETAILS" = "AJOUTEZ LES DÉTAILS DE VOTRE CARTE";
+"Expiry Date" = "Date d'expiration";
+"Enter Your Card Number" = "Entrez votre numéro de carte";
+"Card Holder Name" = "Nom du titulaire";
+"3 digit code" = "Code à 3 chiffres";
+
+"ALL PUSH NOTIFICATIONS" = "TOUTES LES NOTIFICATIONS PUSH";
+"LESSON CONFIRMATION" = "CONFIRMATION DE LEÇON";
+"LESSON REMINDER" = "RAPPEL DE LEÇON";
+"CANCELLED OR MODIFIED LESSONS" = "COURS ANNULÉS OU MODIFIÉS";
+"LESSON RECEIPTS" = "REÇUS DES COURS";
+"In-app" = "Dans l'application";
+"Email" = "Email";
+"Text" = "Texte";
+"GET" = "AVOIR";
+"REWARD POINTS" = "POINTS DE RÉCOMPENSE";
+"FOR EACH FRIEND YOU REFER" = "POUR CHAQUE AMI QUE VOUS REFEREZ";
+"Share Now" = "Partage maintenant";
+"Change Password" = "Changer le mot de passe";
+"Old Password" = "ancien mot de passe";
+"New Password" = "nouveau mot de passe";
+"Confirm New Password" = "Confirmer le nouveau mot de passe";
+"Describe Your Problem" = "Décrivez votre problème";
+"CONTACT US" = "NOUS CONTACTER";
+"Questions? Need help?" = "Des questions? Besoin d'aide?";
+"EMAIL ID" = "ID EMAIL";
+"PHONE NUMBER" = "NUMÉRO DE TÉLÉPHONE";
+"ADDRESS" = "ADRESSE";
+"Description" = "La description";
+"CONTACT DETAILS" = "DÉTAILS DU CONTACT";
+"TERMS AND CONDITIONS" = "TERMES ET CONDITIONS";
+"PRIVACY POLICY" = "POLITIQUE DE CONFIDENTIALITÉ";
+
+"COPYRIGHT" = "DROITS D'AUTEUR";
+"MAIL" = "COURRIER";
+"Notifications" = "Notifications";
+"Messages" = "messages";
+
+"Something went wrong. Please try again later." = "Un problème est survenu. Veuillez réessayer plus tard.";
+"No internet connection. Please check your internet connection." = "Pas de connexion Internet. S'il vous plait, vérifiez votre connexion internet.";
+
+"One Time" = "Une fois";
+"Select Date and Time" = "Sélectionnez la date et l'heure";
+"Recurring & Save" = "Récurrent et économiser";
+"Type a message" = "Tapez un message";
+"ADD OTHER" = "AJOUTER D'AUTRES";
+"Name" = "Nom";
+"Enter ID" = "Entrez l'ID";
+"Please select at least single date for schedule." = "Veuillez sélectionner au moins une seule date pour l'horaire.";
+"Last updated" = "Dernière mise à jour";
+"Please upload your CV." = "Veuillez télécharger votre CV.";
+
+"GENERAL" = "GENERAL";
+"CANCELATION" = "CANCELATION";
+"LOST AN ITEM" = "LOST AN ITEM";
+"MY TEACHER WAS UNPROFESSIONAL" = "MY TEACHER WAS UNPROFESSIONAL";
+"PAYMENT" = "PAYMENT";
+
+// Welcome Teacher
+"Teach music at your CodeStructure !" = "Enseignez la musique à votre CodeStructure!";
+"Set your hourly wage,availabilities, bio and performance video in your teacher profile." = "Définissez votre salaire horaire, vos disponibilités, votre bio et votre vidéo de performance dans votre profil d'enseignant.";
+"Teach online, Have students come to you and/or go to them for an additional travel fee." = "Enseigner en ligne, demandez aux étudiants de venir chez vous et / ou de se rendre chez eux moyennant des frais de déplacement supplémentaires.";
+"Let your students know what they did well and what to work on for the next lesson." = "Faites savoir à vos élèves ce qu'ils ont bien fait et sur quoi travailler pour la prochaine leçon.";
+"Manage and keep track of your lessons, availabilities and payments with ease." = "Gérez et suivez vos cours, disponibilités et paiements en toute simplicité.";
+"Earn exciting rewards with each lesson you teach,including concert tickets and Music supplies." = "Gagnez des récompenses intéressantes avec chaque leçon que vous enseignez, y compris des billets de concert et des fournitures de musique.";
+"Be your own boss!Get paid directly through the app and earn money doing what you love on your terms!" = "Soyez votre propre patron! Soyez payé directement via l'application et gagnez de l'argent en faisant ce que vous aimez selon vos conditions!";
+
+// Welcome Student
+"Learn an instrument at your CodeStructure !" = "Apprenez un instrument à votre CodeStructure!";
+"Find university educated music teachers you can trust." = "Trouvez des professeurs de musique formés à l'université en qui vous pouvez avoir confiance.";
+"See reviews, bios, videos and prices of background checked music teachers near you." = "Consultez les critiques, biographies, vidéos et prix des professeurs de musique dont les antécédents sont vérifiés près de chez vous.";
+"Chat with teachers to make sure they are the right fit for your needs." = "Discutez avec les enseignants pour vous assurer qu'ils correspondent à vos besoins.";
+"Manage your lessons and keep track of your progress with ease." = "Gérez vos cours et suivez vos progrès en toute simplicité.";
+"Earn exciting rewards with each lesson you take, including concert tickets, music supplies and discounts on upcoming lessons" = "Gagnez des récompenses intéressantes à chaque leçon que vous suivez, y compris des billets de concert, des fournitures de musique et des réductions sur les cours à venir";
+
+"Get 5% instant discount on booking of minimum 4 lessons." = "Obtenez 5% de réduction instantanée sur réservation de 4 leçons minimum.";
+"Get 10% instant discount on booking of minimum 8 lessons." = "Obtenez 10% de réduction instantanée sur réservation de 8 leçons minimum.";
+
+"CV Preview" = "Aperçu du CV";
+"Please select Student type." = "Veuillez sélectionner le type d'étudiant.";
+"Please enter Child name." = "Veuillez saisir le nom de l'enfant.";
+"Please enter Age of child." = "Veuillez entrer l'âge de l'enfant.";
+"EDIT PROFILE" = "EDITER LE PROFIL";
+
+"Please enter Price of Instrument." = "Veuillez saisir le prix de l'instrument.";
+"Please select Location." = "Veuillez sélectionner un emplacement.";
+
+"No teacher(s) found." = "Aucun enseignant trouvé.";
