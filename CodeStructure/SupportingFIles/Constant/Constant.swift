@@ -18,14 +18,10 @@ var _theActiveUser: ActiveUser! {
 }
 
 //GOOGLE
-var Google_Client_ID = "AIzaSyB6lpe-wnrj7Ilgti8dwe3qAcyNRrJxOSE"
+var Google_Client_ID = ""
 
 struct BasePath {
     
-    // Stripe API key
-    static var StripeKey = "pk_test_51HcDyIDgSIr6UuDSfKei1MOqaIIbO41Qa8D8aZdy4Tn1zEvMdppsXV33vnilXIiFfVtoKnYtlo1ONJc6QXncSEG500bcFaQBua" // Test
-    //static var StripeKey = "pk_live_51HcDyIDgSIr6UuDSFaDGEiAIiypTbm8enIzi4tqYIiyvkY6EPaVupDq4AMbXkfwOIn6vhsUddm5pBoCnwr1vxwSA00zr8c3PpL" // Live
-
     static var Path                           = "\(BasePath)api/"
     static var BasePath                       = "https://dev.zealousys.com/public/"
 }
